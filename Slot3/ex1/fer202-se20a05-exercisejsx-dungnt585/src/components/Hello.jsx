@@ -1,6 +1,6 @@
 import './MyCSS.css';
 function Hello() {
-    
+    /*
     const helloStyle = {
     fontSize: '36px',       
     color: 'black',       
@@ -11,7 +11,7 @@ function Hello() {
         color: 'blue',
         fontWeight: 'bold'
     };
-    
+    */
   return (
     <div>
         {/*
